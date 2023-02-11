@@ -12,5 +12,5 @@ public class CharProblem {
 
     public static void main(String[] args) {
         howOld("5 years old");
-    } 
+    }
 }
