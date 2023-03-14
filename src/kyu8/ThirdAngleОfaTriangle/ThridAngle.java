@@ -1,4 +1,4 @@
-package kyu8.ThirdAngleÎfaTriangle;
+package kyu8.ThirdAngleĞfaTriangle;
 
 public class ThridAngle {
     public static int otherAngle (int angle1, int angle2) {
